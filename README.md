@@ -4,7 +4,7 @@ Hi 👋 My name is Marcos
 Aerospace Engineer & Developer
 ------------------------------
 
-I'm an Aerospace Engineering graduate from Universidad Rey Juan Carlos, currently working as a backend developer specialized in Python. During my studies, I discovered a strong passion for programming, and since then I've focused my career on software development—especially in automation, data analysis, and building efficient solutions. Right now, I work on Tail Assigner, a system used by Vueling and Air Nostrum to optimize aircraft assignment. I contribute mainly to backend development with Python, as well as some data analysis. I'm also learning frontend (React and Angular) to grow into a full-stack developer, with a strong interest in user experience and clean, functional interfaces.
+I'm an Aerospace Engineering graduate, currently working as a backend developer specialized in Python. During my studies, I discovered a strong passion for programming, and since then I've focused my career on software development—especially in automation, data analysis, and building efficient solutions. Right now, I work on Tail Assigner, a system used by Vueling and Air Nostrum to optimize aircraft assignment. I contribute mainly to backend development with Python, as well as some data analysis. I'm also learning frontend (React and Angular) to grow into a full-stack developer, with a strong interest in user experience and clean, functional interfaces.
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [m.corpas@gmail.com](mailto:m.corpas@gmail.com)
